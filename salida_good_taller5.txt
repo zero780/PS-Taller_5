@@ -1,0 +1,36 @@
+eduardo@ubuntu:~/Desktop/Documents/PS/2018-2/ptr$ ./a.out 5
+0
+2
+4
+6
+8
+
+Est c: 0, mensaje: Par
+
+
+Est c: 1, mensaje: impar
+0
+
+
+Est c: 2, mensaje: Par
+0
+3
+
+
+Est c: 3, mensaje: impar
+0
+3
+6
+
+
+Est c: 4, mensaje: Par
+0
+3
+6
+9
+
+0
+10
+20
+30
+40
